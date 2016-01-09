@@ -1,0 +1,13 @@
+.control-group{
+  border: 1px solid #456789;
+  padding: 0.16em;
+}
+.control-group label{
+  display: block;
+  margin-bottom: 0.16em;
+}
+.control-group textarea{
+  border: none;
+  width: 100%;
+  background-color: rgb(230, 230, 230);
+}
